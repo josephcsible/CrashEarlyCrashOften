@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "crashearlycrashoften",
+  "name": "CrashEarlyCrashOften",
+  "description": "Makes the game crash with a useful crash report when it detects something has gone wrong, instead of crashing later with a useless crash report",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "",
+  "url": "https://github.com/josephcsible/CrashEarlyCrashOften",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Joseph C. Sible"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
